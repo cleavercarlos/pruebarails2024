@@ -65,4 +65,4 @@ gem "figaro", "~> 1.2"
 
 gem "faker", "~> 3.4"
 
-gem "aws-sdk-s3", "~> 1.160"
+gem "aws-sdk-s3", "~> 1.163"
